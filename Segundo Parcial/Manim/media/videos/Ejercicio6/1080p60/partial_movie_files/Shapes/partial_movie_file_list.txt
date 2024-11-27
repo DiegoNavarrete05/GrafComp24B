@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio6/1080p60/partial_movie_files/Shapes/3977891868_1777078706_223132457.mp4'
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio6/1080p60/partial_movie_files/Shapes/2852726489_657936445_4272345035.mp4'
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio6/1080p60/partial_movie_files/Shapes/2852726489_168301677_223132457.mp4'
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio6/1080p60/partial_movie_files/Shapes/2852726489_2114720087_3978803992.mp4'

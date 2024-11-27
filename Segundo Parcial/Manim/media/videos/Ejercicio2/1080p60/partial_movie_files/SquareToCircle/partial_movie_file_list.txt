@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio2/1080p60/partial_movie_files/SquareToCircle/3977891868_3138598014_223132457.mp4'
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio2/1080p60/partial_movie_files/SquareToCircle/2852726489_2374734652_3256495558.mp4'
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio2/1080p60/partial_movie_files/SquareToCircle/2852726489_208288666_3256495558.mp4'

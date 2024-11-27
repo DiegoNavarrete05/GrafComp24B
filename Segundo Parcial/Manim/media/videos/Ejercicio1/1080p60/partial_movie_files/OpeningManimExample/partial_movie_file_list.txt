@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio1/1080p60/partial_movie_files/OpeningManimExample/3977891868_4091968901_223132457.mp4'
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio1/1080p60/partial_movie_files/OpeningManimExample/2852726489_1704852926_1098523787.mp4'
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio1/1080p60/partial_movie_files/OpeningManimExample/2852726489_2447350321_1273613991.mp4'
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio1/1080p60/partial_movie_files/OpeningManimExample/2852726489_1704852926_2107704280.mp4'
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio1/1080p60/partial_movie_files/OpeningManimExample/2852726489_2565567597_2600205283.mp4'
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio1/1080p60/partial_movie_files/OpeningManimExample/2852726489_1704852926_3530209710.mp4'
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio1/1080p60/partial_movie_files/OpeningManimExample/2852726489_780230187_963729649.mp4'
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio1/1080p60/partial_movie_files/OpeningManimExample/2852726489_1704852926_911985586.mp4'
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio1/1080p60/partial_movie_files/OpeningManimExample/2852726489_265500947_169585062.mp4'
+file 'file:C:/Users/Argel/Downloads/Manim/media/videos/Ejercicio1/1080p60/partial_movie_files/OpeningManimExample/2852726489_1704852926_2637104647.mp4'
