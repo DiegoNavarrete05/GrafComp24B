@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/SEPTIMO SEMESTRE/Personaje/media/videos/vectores/1080p60/partial_movie_files/VerificarVectores/3977891868_1479534525_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/SEPTIMO SEMESTRE/Personaje/media/videos/vectores/1080p60/partial_movie_files/VerificarVectores/2852726489_2397261096_3568446554.mp4'
+file 'file:C:/Users/Argel/Desktop/SEPTIMO SEMESTRE/Personaje/media/videos/vectores/1080p60/partial_movie_files/VerificarVectores/2852726489_1141282389_1367895534.mp4'
+file 'file:C:/Users/Argel/Desktop/SEPTIMO SEMESTRE/Personaje/media/videos/vectores/1080p60/partial_movie_files/VerificarVectores/2852726489_4090591869_2009979896.mp4'
+file 'file:C:/Users/Argel/Desktop/SEPTIMO SEMESTRE/Personaje/media/videos/vectores/1080p60/partial_movie_files/VerificarVectores/2852726489_1141282389_2769175118.mp4'
+file 'file:C:/Users/Argel/Desktop/SEPTIMO SEMESTRE/Personaje/media/videos/vectores/1080p60/partial_movie_files/VerificarVectores/2852726489_2429544192_4256877933.mp4'
