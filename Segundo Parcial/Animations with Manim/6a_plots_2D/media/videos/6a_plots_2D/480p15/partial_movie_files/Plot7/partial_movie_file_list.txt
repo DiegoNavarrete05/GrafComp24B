@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/6a_plots_2D/media/videos/6a_plots_2D/480p15/partial_movie_files/Plot7/1185818338_763685885_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/6a_plots_2D/media/videos/6a_plots_2D/480p15/partial_movie_files/Plot7/624642324_3586844516_1389373985.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/6a_plots_2D/media/videos/6a_plots_2D/480p15/partial_movie_files/Plot7/624642324_1704852926_1104252168.mp4'

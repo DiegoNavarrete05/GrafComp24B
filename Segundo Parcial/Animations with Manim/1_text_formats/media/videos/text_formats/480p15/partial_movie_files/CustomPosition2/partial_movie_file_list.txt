@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/1_text_formats/media/videos/text_formats/480p15/partial_movie_files/CustomPosition2/1185818338_884743975_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/1_text_formats/media/videos/text_formats/480p15/partial_movie_files/CustomPosition2/624642324_3890345977_2154949451.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/1_text_formats/media/videos/text_formats/480p15/partial_movie_files/CustomPosition2/624642324_3349285344_1908981248.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/1_text_formats/media/videos/text_formats/480p15/partial_movie_files/CustomPosition2/624642324_2475379470_78398926.mp4'

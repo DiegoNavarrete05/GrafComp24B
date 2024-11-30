@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/ChangeColorAndSizeAnimation/1185818338_4227583773_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/ChangeColorAndSizeAnimation/624642324_1704852926_3796672380.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/ChangeColorAndSizeAnimation/624642324_626041661_4126990641.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/ChangeColorAndSizeAnimation/624642324_1704852926_3122766896.mp4'

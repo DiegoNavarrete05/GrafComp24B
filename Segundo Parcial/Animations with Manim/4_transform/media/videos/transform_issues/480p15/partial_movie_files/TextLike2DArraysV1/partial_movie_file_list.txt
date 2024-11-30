@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/transform_issues/480p15/partial_movie_files/TextLike2DArraysV1/1185818338_808340622_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/transform_issues/480p15/partial_movie_files/TextLike2DArraysV1/624642324_3294747948_522719696.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/transform_issues/480p15/partial_movie_files/TextLike2DArraysV1/624642324_4189002098_1996314881.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/transform_issues/480p15/partial_movie_files/TextLike2DArraysV1/624642324_1535286559_624986563.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/transform_issues/480p15/partial_movie_files/TextLike2DArraysV1/624642324_1704852926_1620780876.mp4'

@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/1_text_formats/media/videos/text_formats/480p15/partial_movie_files/TextOnTopEdge/1185818338_1921629167_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/1_text_formats/media/videos/text_formats/480p15/partial_movie_files/TextOnTopEdge/624642324_2475379470_3115758951.mp4'

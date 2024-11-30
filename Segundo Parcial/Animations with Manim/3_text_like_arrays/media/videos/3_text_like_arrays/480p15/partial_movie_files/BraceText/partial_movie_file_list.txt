@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/3_text_like_arrays/media/videos/3_text_like_arrays/480p15/partial_movie_files/BraceText/1185818338_219389014_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/3_text_like_arrays/media/videos/3_text_like_arrays/480p15/partial_movie_files/BraceText/624642324_708104412_2040884221.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/3_text_like_arrays/media/videos/3_text_like_arrays/480p15/partial_movie_files/BraceText/624642324_1704852926_1582139596.mp4'

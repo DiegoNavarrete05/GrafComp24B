@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/480p15/partial_movie_files/DashedLineAnimation/1185818338_4201717321_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/480p15/partial_movie_files/DashedLineAnimation/624642324_423240416_917272186.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/480p15/partial_movie_files/DashedLineAnimation/624642324_3549574011_1433629608.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/480p15/partial_movie_files/DashedLineAnimation/624642324_1704852926_1508110723.mp4'

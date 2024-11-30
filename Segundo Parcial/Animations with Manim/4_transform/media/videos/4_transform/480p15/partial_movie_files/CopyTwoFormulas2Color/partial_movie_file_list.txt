@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2Color/1185818338_3526320981_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2Color/624642324_1704852926_1479236585.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2Color/624642324_2787412747_1691069054.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2Color/624642324_1704852926_718743438.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2Color/624642324_354305617_4037219776.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2Color/624642324_1704852926_2811867427.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2Color/624642324_2355227453_1856955484.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2Color/624642324_1704852926_1957099564.mp4'

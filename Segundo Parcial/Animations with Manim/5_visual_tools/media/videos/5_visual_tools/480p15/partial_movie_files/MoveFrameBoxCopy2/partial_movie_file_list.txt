@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/480p15/partial_movie_files/MoveFrameBoxCopy2/1185818338_3751129972_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/480p15/partial_movie_files/MoveFrameBoxCopy2/624642324_1267988723_1452567948.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/480p15/partial_movie_files/MoveFrameBoxCopy2/624642324_1704852926_3325934561.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/480p15/partial_movie_files/MoveFrameBoxCopy2/624642324_2845392424_989275730.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/480p15/partial_movie_files/MoveFrameBoxCopy2/624642324_1704852926_1377259007.mp4'

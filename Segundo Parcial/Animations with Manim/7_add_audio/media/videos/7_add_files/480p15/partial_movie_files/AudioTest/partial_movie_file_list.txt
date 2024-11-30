@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/7_add_audio/media/videos/7_add_files/480p15/partial_movie_files/AudioTest/1185818338_123554531_3486500696.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/7_add_audio/media/videos/7_add_files/480p15/partial_movie_files/AudioTest/624642324_1704852926_1335637890.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/7_add_audio/media/videos/7_add_files/480p15/partial_movie_files/AudioTest/624642324_1704852926_4148325457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/7_add_audio/media/videos/7_add_files/480p15/partial_movie_files/AudioTest/624642324_1704852926_1613856858.mp4'

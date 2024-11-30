@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/480p15/partial_movie_files/Arrow1/1185818338_3624093766_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/480p15/partial_movie_files/Arrow1/624642324_1704852926_3381532081.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/480p15/partial_movie_files/Arrow1/624642324_1341434901_2297662223.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/480p15/partial_movie_files/Arrow1/624642324_4166804052_1804361615.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/480p15/partial_movie_files/Arrow1/624642324_1704852926_1286437922.mp4'

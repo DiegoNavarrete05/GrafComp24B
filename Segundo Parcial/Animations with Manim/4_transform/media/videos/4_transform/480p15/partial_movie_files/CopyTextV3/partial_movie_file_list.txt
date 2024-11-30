@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTextV3/1185818338_4288293090_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTextV3/624642324_1704852926_2161113813.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTextV3/624642324_4151935969_3555353621.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTextV3/624642324_1704852926_2111784160.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTextV3/624642324_1726380286_4189277265.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTextV3/624642324_1704852926_3877403061.mp4'

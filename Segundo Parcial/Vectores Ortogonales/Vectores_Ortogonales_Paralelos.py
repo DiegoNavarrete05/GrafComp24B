@@ -8,9 +8,9 @@ class Main(Scene):
 
         
         # Etiquetas para los vectores
-        nombre_a = MathTex(r"a = (4, -1)").scale(0.5)
+        nombre_a = MathTex(r"a = (-2, 8, -12)").scale(0.5)
         nombre_a.next_to(vector_a, DOWN * 2)
-        nombre_b = MathTex(r"b = (2, 8)").scale(0.5)
+        nombre_b = MathTex(r"b = (1, -4, 6)").scale(0.5)
         nombre_b.next_to(vector_b, UP)
 
         self.play(Create(vector_a), Write(nombre_a))

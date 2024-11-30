@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2/1185818338_3324801253_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2/624642324_1704852926_2034930504.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2/624642324_2787412747_3730437429.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2/624642324_1704852926_2655455551.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2/624642324_3206261329_3826004482.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2/624642324_1704852926_3773814053.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2/624642324_917925386_3075599979.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/4_transform/480p15/partial_movie_files/CopyTwoFormulas2/624642324_1704852926_234196510.mp4'

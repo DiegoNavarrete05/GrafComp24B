@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/transform_issues/1080p60/partial_movie_files/TransformIssuesSolutionInfallible/3977891868_2658953515_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/transform_issues/1080p60/partial_movie_files/TransformIssuesSolutionInfallible/2852726489_1704852926_4079312621.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/transform_issues/1080p60/partial_movie_files/TransformIssuesSolutionInfallible/2852726489_3200243769_2879258610.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/transform_issues/1080p60/partial_movie_files/TransformIssuesSolutionInfallible/2852726489_1704852926_261797934.mp4'

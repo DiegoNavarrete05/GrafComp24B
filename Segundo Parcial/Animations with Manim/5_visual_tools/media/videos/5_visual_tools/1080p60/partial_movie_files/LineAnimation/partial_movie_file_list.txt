@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/1080p60/partial_movie_files/LineAnimation/3977891868_2368444850_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/1080p60/partial_movie_files/LineAnimation/2852726489_2915293628_917272186.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/1080p60/partial_movie_files/LineAnimation/2852726489_119887258_1518633281.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/5_visual_tools/media/videos/5_visual_tools/1080p60/partial_movie_files/LineAnimation/2852726489_1704852926_956513336.mp4'

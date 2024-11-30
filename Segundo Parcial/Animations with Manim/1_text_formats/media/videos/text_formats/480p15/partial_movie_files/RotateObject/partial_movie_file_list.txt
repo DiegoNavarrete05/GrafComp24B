@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/1_text_formats/media/videos/text_formats/480p15/partial_movie_files/RotateObject/1185818338_2206047640_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/1_text_formats/media/videos/text_formats/480p15/partial_movie_files/RotateObject/624642324_1141282389_4011204977.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/1_text_formats/media/videos/text_formats/480p15/partial_movie_files/RotateObject/624642324_1141282389_1500264362.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/1_text_formats/media/videos/text_formats/480p15/partial_movie_files/RotateObject/624642324_1141282389_2373840836.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/1_text_formats/media/videos/text_formats/480p15/partial_movie_files/RotateObject/624642324_1141282389_3791550672.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/1_text_formats/media/videos/text_formats/480p15/partial_movie_files/RotateObject/624642324_1141282389_271191210.mp4'

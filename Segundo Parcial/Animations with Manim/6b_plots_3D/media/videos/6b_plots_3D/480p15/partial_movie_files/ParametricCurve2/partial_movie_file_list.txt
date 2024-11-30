@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/6b_plots_3D/media/videos/6b_plots_3D/480p15/partial_movie_files/ParametricCurve2/2995707612_732453581_3446754985.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/6b_plots_3D/media/videos/6b_plots_3D/480p15/partial_movie_files/ParametricCurve2/3329157328_4268215521_1900761424.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/6b_plots_3D/media/videos/6b_plots_3D/480p15/partial_movie_files/ParametricCurve2/2186036031_1496537964_4019608003.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/6b_plots_3D/media/videos/6b_plots_3D/480p15/partial_movie_files/ParametricCurve2/1556162403_4268215521_3312327170.mp4'

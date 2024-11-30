@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/transform_issues/480p15/partial_movie_files/TextLike1DArrays/1185818338_1728103639_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/transform_issues/480p15/partial_movie_files/TextLike1DArrays/624642324_1704852926_1488616879.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/transform_issues/480p15/partial_movie_files/TextLike1DArrays/624642324_3510301964_1069672764.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/transform_issues/480p15/partial_movie_files/TextLike1DArrays/624642324_87982849_4131132508.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/transform_issues/480p15/partial_movie_files/TextLike1DArrays/624642324_1704852926_144498605.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/transform_issues/480p15/partial_movie_files/TextLike1DArrays/624642324_3147497314_4109581412.mp4'
+file 'file:C:/Users/Argel/Desktop/Animations with Manim/4_transform/media/videos/transform_issues/480p15/partial_movie_files/TextLike1DArrays/624642324_1704852926_3632999845.mp4'
