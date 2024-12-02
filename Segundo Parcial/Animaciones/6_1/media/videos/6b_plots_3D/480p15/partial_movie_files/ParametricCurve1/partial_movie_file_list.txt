@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6_1/media/videos/6b_plots_3D/480p15/partial_movie_files/ParametricCurve1/1502660152_1771558406_3446754985.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6_1/media/videos/6b_plots_3D/480p15/partial_movie_files/ParametricCurve1/1305385173_4268215521_4179023706.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6_1/media/videos/6b_plots_3D/480p15/partial_movie_files/ParametricCurve1/166474554_3697881672_1910676955.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6_1/media/videos/6b_plots_3D/480p15/partial_movie_files/ParametricCurve1/3613480806_4268215521_2380030397.mp4'

@@ -1,28 +1,30 @@
 from manim import *
 import numpy as np
 
-class TransformationText1V1(Scene): #YA
+class UnifiedAnimationsWithBackgroundColors(Scene):
     def construct(self):
+        # TransformationText1V1
+        self.camera.background_color = "#D6EAF8"  # Fondo azul claro
         texto1 = Text("First text")
         texto2 = Text("Second text")
         self.play(Write(texto1))
         self.wait()
         self.play(Transform(texto1, texto2))
         self.wait()
+        self.play(FadeOut(texto2))
 
-
-class TransformationText1V2(Scene): #YA
-    def construct(self):
+        # TransformationText1V2
+        self.camera.background_color = "#FDEDEC"  # Fondo rojo claro
         texto1 = Text("First text").to_edge(UP)
         texto2 = Text("Second text")
         self.play(Write(texto1))
         self.wait()
         self.play(Transform(texto1, texto2))
         self.wait()
+        self.play(FadeOut(texto2))
 
-
-class TransformationText2(Scene): #YA
-    def construct(self):
+        # TransformationText2
+        self.camera.background_color = "#E8F8F5"  # Fondo verde claro
         texts = [
             Text("Function"),
             Text("Derivative"),
@@ -34,10 +36,10 @@ class TransformationText2(Scene): #YA
         for i in range(len(texts) - 1):
             self.play(ReplacementTransform(texts[i], texts[i + 1]))
             self.wait()
+        self.play(FadeOut(texts[-1]))
 
-
-class CopyTextV1(Scene): #YA
-    def construct(self):
+        # CopyTextV1
+        self.camera.background_color = "#FDF2E9"  # Fondo naranja claro
         formula = MathTex(
             "\\frac{d}{dx}", "(", "u", "+", "v", ")", "=",
             "\\frac{d}{dx}", "u", "+", "\\frac{d}{dx}", "v"
@@ -58,6 +60,7 @@ class CopyTextV1(Scene): #YA
             run_time=3
         )
         self.wait()
+        self.play(FadeOut(formula))
 
 class CopyTextV2(Scene): #YA
     def construct(self):

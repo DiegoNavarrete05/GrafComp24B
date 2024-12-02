@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6/media/videos/6a_plots_2D/480p15/partial_movie_files/Plot6/1432906571_1192650355_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6/media/videos/6a_plots_2D/480p15/partial_movie_files/Plot6/14579898_2152990552_1389373985.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6/media/videos/6a_plots_2D/480p15/partial_movie_files/Plot6/14579898_1704852926_1652642034.mp4'

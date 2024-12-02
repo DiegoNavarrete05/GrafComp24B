@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6/media/videos/6a_plots_2D/480p15/partial_movie_files/PlotSinCos/465601650_246748186_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6/media/videos/6a_plots_2D/480p15/partial_movie_files/PlotSinCos/2406988438_2130163683_1711184877.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6/media/videos/6a_plots_2D/480p15/partial_movie_files/PlotSinCos/2406988438_4117652669_742670959.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6/media/videos/6a_plots_2D/480p15/partial_movie_files/PlotSinCos/2406988438_3765680381_1904595165.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6/media/videos/6a_plots_2D/480p15/partial_movie_files/PlotSinCos/2406988438_1704852926_4038939445.mp4'

@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/7/media/videos/7_add_files/480p15/partial_movie_files/Aa/69625909_4250807384_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/7/media/videos/7_add_files/480p15/partial_movie_files/Aa/2110755947_3729067766_3287249323.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/7/media/videos/7_add_files/480p15/partial_movie_files/Aa/2110755947_1141282389_701167054.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/7/media/videos/7_add_files/480p15/partial_movie_files/Aa/2110755947_3821509071_2780939382.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/7/media/videos/7_add_files/480p15/partial_movie_files/Aa/2110755947_3890345977_3742807040.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/7/media/videos/7_add_files/480p15/partial_movie_files/Aa/2110755947_668189853_152098550.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/7/media/videos/7_add_files/480p15/partial_movie_files/Aa/2110755947_3890345977_238060075.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/7/media/videos/7_add_files/480p15/partial_movie_files/Aa/2110755947_3745746597_1928264849.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/7/media/videos/7_add_files/480p15/partial_movie_files/Aa/2110755947_2475379470_2814476621.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/7/media/videos/7_add_files/480p15/partial_movie_files/Aa/2110755947_979889973_1685640314.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/7/media/videos/7_add_files/480p15/partial_movie_files/Aa/2110755947_3890345977_2967589050.mp4'

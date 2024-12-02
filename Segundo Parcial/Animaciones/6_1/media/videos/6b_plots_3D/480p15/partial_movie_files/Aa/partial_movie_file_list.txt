@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6_1/media/videos/6b_plots_3D/480p15/partial_movie_files/Aa/69625909_4250807384_223132457.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6_1/media/videos/6b_plots_3D/480p15/partial_movie_files/Aa/2110755947_3285799616_3287249323.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6_1/media/videos/6b_plots_3D/480p15/partial_movie_files/Aa/2110755947_1141282389_1385624237.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6_1/media/videos/6b_plots_3D/480p15/partial_movie_files/Aa/2110755947_514290969_2872222845.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6_1/media/videos/6b_plots_3D/480p15/partial_movie_files/Aa/2110755947_3890345977_2532529187.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6_1/media/videos/6b_plots_3D/480p15/partial_movie_files/Aa/2110755947_2234698707_3505436418.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6_1/media/videos/6b_plots_3D/480p15/partial_movie_files/Aa/2110755947_3890345977_2042421312.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6_1/media/videos/6b_plots_3D/480p15/partial_movie_files/Aa/2110755947_3096924919_168607953.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6_1/media/videos/6b_plots_3D/480p15/partial_movie_files/Aa/2110755947_2475379470_2466800992.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6_1/media/videos/6b_plots_3D/480p15/partial_movie_files/Aa/2110755947_538665417_1122182782.mp4'
+file 'file:C:/Users/Argel/Desktop/Nueva carpeta/6_1/media/videos/6b_plots_3D/480p15/partial_movie_files/Aa/2110755947_3890345977_2967589050.mp4'
